@@ -10,12 +10,12 @@
 
 .navbar .container {
     background-color: #add8e6;
-    background-image: -moz-linear-gradient(top, #add8e6, #006b00);
-    background-image: -ms-linear-gradient(top, #add8e6, #006b00);
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#add8e6), to(#006b00));
-    background-image: -webkit-linear-gradient(top, #add8e6, #006b00);
-    background-image: -o-linear-gradient(top, #add8e6, #006b00);
-    background-image: linear-gradient(top, #add8e6, #006b00);
+    background-image: -moz-linear-gradient(top, #add8e6, #000080);
+    background-image: -ms-linear-gradient(top, #add8e6, #000080);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#add8e6), to(#000080));
+    background-image: -webkit-linear-gradient(top, #add8e6, #000080);
+    background-image: -o-linear-gradient(top, #add8e6, #000080);
+    background-image: linear-gradient(top, #add8e6, #000080);
 }
 
 .navbar .navbar-brand {
